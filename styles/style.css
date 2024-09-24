@@ -2,3 +2,12 @@ body{
     background-color: black;
     color: white;
 }
+
+div.notification{
+    background-color: aquamarine;
+    border-radius: 15px;
+    color : green;
+    padding: 25px;
+    width : 80%;
+    margin: 10px auto 15px auto;
+}
